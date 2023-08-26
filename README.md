@@ -61,3 +61,8 @@ The ending time for the summary. It should be coefficients of 15.
 > 1345
 ### 14. Input the time interval(in minutes):
 It should be multiplier of 15. for example. 15, 30, 45 or 60
+
+## Input as directed.
+In the output excel file the output will look like this.
+
+![In the output excel file, sum up traffic volume horizontally and vertically.](/asset/Picture1.png)
