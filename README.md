@@ -1,6 +1,6 @@
 # Automation_Project_AUS_Traffic
 
-<b>Input as directed.</b>
+#Input as directed.
 
 Item	Description
 Input file directory	Input the directory (or, address) of the folder where the raw traffic volume data is saved. 
