@@ -71,7 +71,7 @@ https://github.com/gazi-faysal-jubayer/Automation_Project_AUS_Traffic/assets/118
 
 
 
-## Output as directed.
+## Output:
 In the output excel file the output will look like this.
 
 ![In the output excel file, sum up traffic volume horizontally and vertically.](/asset/Picture1.png)
